@@ -1,1 +1,1 @@
-The apk file is provided with .apk 
+The apk file is provided with NTictactoe_base.apk 
